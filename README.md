@@ -13,21 +13,8 @@
     <summary> <b> <samp> Most used languanges </samp></b></summary>
     <samp>
         <img align="middle"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiwowks&hide_title=true&layout=compact" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ceB1ade&hide_title=true&layout=compact" />
     </samp>
-</details>
-
-<details align="center">
-    <summary> <b> <samp> Current project </samp></b></summary>
-
-<a style="text-decoration: none" align="left" href="https://github.com/iiwowks/iiwowks.github.io">
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=iiwowks&repo=iiwowks.github.io&show_owner=true" />
-    </a>
-
-<a align="left" href="https://github.com/iiwowks/vue-demo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iiwowks&repo=vue-demo&show_owner=true" />
-</a>
 </details>
 
 <div align="center">
