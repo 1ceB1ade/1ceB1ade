@@ -2,7 +2,7 @@
     <br>
     <samp>
         Hello there! I'm <b><a href="https://github.com/">1ceB1ade</a></b>.
-        <br> I’m currently learning <b>C++ & Python</b>
+        <br> Here are my stats: </b>
         <br>
     </samp>
     <img align="middle"
